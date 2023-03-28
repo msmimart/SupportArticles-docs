@@ -72,6 +72,7 @@ The following table lists some, but not all, first-party Microsoft applications.
 |ASM Campaign Servicing|0cb7b9ec-5336-483b-bc31-b15b5788de71|
 |Azure Advanced Threat Protection|7b7531ad-5926-4f2d-8a1d-38495ad33e17|
 |Azure Data Lake|e9f49c6b-5ce5-44c8-925d-015017e9f7ad|
+|Azure Information Protection|00000012-0000-0000-c000-000000000000|
 |Azure Lab Services Portal|835b2a73-6e10-4aa5-a979-21dfda45231c|
 |Azure Portal|c44b4083-3bb0-49c1-b47d-974e53cbdf3c|
 |AzureSupportCenter|37182072-3c9c-4f6a-a4b3-b3f91cacffce|
